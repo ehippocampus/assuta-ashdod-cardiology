@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assuta-ashdod-cardiology.vercel.app/sitemap.xml
